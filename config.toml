@@ -10,6 +10,8 @@ build_search_index = false
 # The default author for pages
 author = "Øystein Walle"
 
+theme = "hook"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -17,3 +19,5 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+links = []
