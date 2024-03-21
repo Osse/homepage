@@ -3,8 +3,6 @@ title = "Øystein's homepage"
 template = "index.html"
 +++
 
-# Welcome to my homepage
-
 I'm Øystein (Øsse), a programmer living in Oslo with my wife and my two-year
 old daughter. I am currently employed at Infront as a backend developer. I have
 previously worked in Ceragon Networks and Data Respons. My main language
