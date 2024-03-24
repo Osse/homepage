@@ -8,6 +8,7 @@ template = "index.html"
 I'm Øystein (Øsse), a programmer living in Oslo with my wife and my two-year
 old daughter. I am currently employed at Infront as a backend developer. I have
 previously worked in Ceragon Networks and Data Respons. My main language
+professionaly is C++. [See my resume](cv).
 
 I am addicted to Git and regular expressions.
 
@@ -34,14 +35,14 @@ advantage of whatever features our compiler has been able to implement, e.g.
 
 #### Other tools
 
-- *CMake*: Used professionally in most projects,
-- *MSBuild*: Improved the build system at my current job, although I'd prefer
+- **CMake**: Used professionally in most projects,
+- **MSBuild**: Improved the build system at my current job, although I'd prefer
   to replace it with the above...
-- *Shell-related tools*: Fairly good knowledge of shell-related tools, e.g.
-  `sed`, `awk`,
-- *Protobuf*: Used Protobuf as a serialization format in several projects,
-- *Wireshark*: Wrote a dissector for a custom proprietary protocol,
-- *Asciidoc*,
+- **Shell-related tools**: Fairly good knowledge of shell-related tools, e.g.
+  `sed`, `awk` and others,
+- **Protobuf**: Used Protobuf as a serialization format in several projects,
+- **Wireshark**: Wrote a dissector for a custom proprietary protocol,
+- **Asciidoc**,
 
 ## Open source stuff
 
